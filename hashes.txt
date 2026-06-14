@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu aroma en mi chaqueta
+
+This log tracks the cryptographic history and versioning for the song **Tu aroma en mi chaqueta** (tu-aroma-en-mi-chaqueta).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T13:58:48.184403 | `v1` | `82c62cca93236ab0ccdf52a373615639573ba52538853206f9328b9b2f3385c3` | `9fdd0ba449f7b7dcd82a97a34c8ff6074c78d0c42501fa2c5c2d131098913380` | `2026-06-14_tu-aroma-en-mi-chaqueta-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
