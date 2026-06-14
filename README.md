@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aroma-en-mi-chaqueta/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Tu aroma en mi chaqueta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aroma-en-mi-chaqueta/) |
+| **Get License** | [Secure Licensing Rights for Tu aroma en mi chaqueta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aroma-en-mi-chaqueta/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3259)
 
 ---
 
