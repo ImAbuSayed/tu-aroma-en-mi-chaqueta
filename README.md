@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aroma-en-mi-chaqueta/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tu aroma en mi chaqueta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aroma-en-mi-chaqueta/) |
+| **Get License** | [Official Music Licensing for Tu aroma en mi chaqueta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aroma-en-mi-chaqueta/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu aroma en mi chaqueta me tiene volando al cien,
+> De noche por la Gran Vía, buscando contigo el edén.
+> Esa mirada tuya brilla más que todo el neón,
+> Nena, pégate lento y sube la revolución.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
